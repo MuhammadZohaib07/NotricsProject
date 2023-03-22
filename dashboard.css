@@ -1,0 +1,23 @@
+.header {
+  border: 2px solid blue;
+  border-radius: 8px;
+  padding: 20px;
+  border-color: blue;
+}
+
+.container-fluid {
+    background-color: #89CFF0; 
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 5px;
+}
